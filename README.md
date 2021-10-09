@@ -4,6 +4,5 @@ I developed this Music Player using Java language. It fetches songs from the SD 
  It also has Notification services and you can also control the songs from Mini player.
  ![WhatsApp Image 2021-10-09 at 8 35 49 PM (1)](https://user-images.githubusercontent.com/53477729/136663764-306cf126-cc55-494c-a0ae-27eda93f10cb.jpeg)
  
- ![Uploading WhatsApp Image 2021-10-09 at 8.35.49 PM.jpeg…]()
-
+![WhatsApp Image 2021-10-09 at 8 35 49 PM](https://user-images.githubusercontent.com/53477729/136664126-457d8c51-c77f-4ac4-b59e-8119b8abb4d7.jpeg)
 
